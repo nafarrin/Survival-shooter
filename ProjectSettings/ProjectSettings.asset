@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 91d617a91cf99824ea3fbb90f5995910
+  productGUID: 01e4a87256c8ea446af3aac971ce0a76
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -343,9 +343,9 @@ PlayerSettings:
     m_GraphicsJobs: 0
   m_BuildTargetGraphicsJobMode:
   - m_BuildTarget: PS4Player
-    m_GraphicsJobMode: 1906751768
+    m_GraphicsJobMode: -237010888
   - m_BuildTarget: XboxOnePlayer
-    m_GraphicsJobMode: 1906751768
+    m_GraphicsJobMode: -237010888
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: AndroidPlayer
     m_APIs: 08000000
@@ -690,14 +690,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: survival shooter
+  metroPackageName: Survival-shooter
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: survival shooter
+  metroApplicationDescription: Survival-shooter
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
